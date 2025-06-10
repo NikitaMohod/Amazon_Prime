@@ -2,7 +2,7 @@
 This analysis explores a dataset representing Amazon Prime Video's content library, providing insights into its scale, diversity, content strategy, and historical growth trends.
 
 ### Key Findings & Dashboard Analysis:
-1. Key Performance Indicators (KPIs) : 
+#### 1. Key Performance Indicators (KPIs) : 
 The dashboard's top-level metrics reveal a substantial content library:
 
 - Total Titles: 9,655 unique titles.
@@ -13,7 +13,7 @@ The dashboard's top-level metrics reveal a substantial content library:
 
 - Content Span: Content ranges from 1920 to 2021, showcasing a long history of content acquisition.
 
-2. Content Rating Distribution : 
+#### 2. Content Rating Distribution : 
 The "Rating by total shows" chart highlights content prevalence across ratings:
 
 - Target Audience: 13+ (2.12K shows) and 16+ (1.55K shows) categories are most numerous, suggesting a primary focus on teenage and young adult audiences.
@@ -22,7 +22,7 @@ The "Rating by total shows" chart highlights content prevalence across ratings:
 
 - Smaller Segments: R, PG-13, and Other categories have fewer titles (1.01K, 0.39K, 0.34K respectively).
 
-3. Genre Distribution : 
+#### 3. Genre Distribution : 
 The "Genres by total shows" chart outlines the most common genres:
 
 - Dominant Genres: "Drama" (0.99K shows) and "Comedy" (0.54K shows) are the most popular.
@@ -31,14 +31,14 @@ The "Genres by total shows" chart outlines the most common genres:
 
 - Variety: Animation, Kids, and Documentary genres also form a substantial portion of the offerings.
 
-4. Geographic Content Distribution: 
+#### 4. Geographic Content Distribution: 
 The "Total shows by country" map illustrates the global reach:
 
 - Widespread Presence: Content originates from or is available in numerous countries across North America, Europe, Asia, and other regions, indicating a broad international strategy.
 
 - Key Regions: Visual cues suggest a strong presence in the USA and various European nations.
 
-5. Content Type Breakdown (Movies vs. TV Shows) : 
+#### 5. Content Type Breakdown (Movies vs. TV Shows) : 
 The "Movies and TV Shows" donut chart clearly defines the library composition:
 
 - Movie Dominance: Movies constitute the vast majority at 7.81K titles (80.82%).
@@ -47,7 +47,7 @@ The "Movies and TV Shows" donut chart clearly defines the library composition:
 
 - Strategic Focus: This indicates Amazon Prime Video's content strategy heavily emphasizes a wide array of movies.
 
-6. Content Release Trends Over Time : 
+#### 6. Content Release Trends Over Time : 
 The "Total shows by release year" line chart highlights content growth from 1920-2021:
 
 - Early & Gradual Growth: Releases were sporadic pre-1990s, with a slow but steady increase through the 1990s and early 2010s.
