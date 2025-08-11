@@ -35,7 +35,7 @@ The "Genres by total shows" chart outlines the most common genres:
 
 - Variety: Animation, Kids, and Documentary genres also form a substantial portion of the offerings.
 
-<img  width="246" height="173" alt="image" src="https://github.com/user-attachments/assets/cdb39874-f9ec-4ec1-80f7-779f53b89e95" />
+<img  width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/cdb39874-f9ec-4ec1-80f7-779f53b89e95" />
 
 
 #### 4. Geographic Content Distribution: 
@@ -54,7 +54,7 @@ The "Movies and TV Shows" donut chart clearly defines the library composition:
 
 - Strategic Focus: This indicates Amazon Prime Video's content strategy heavily emphasizes a wide array of movies.
 
-  <img  width="" height="173" alt="image" src="https://github.com/user-attachments/assets/3e55e0af-011a-4629-89af-5f7f4f2bc0d1" />
+  <img  width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/3e55e0af-011a-4629-89af-5f7f4f2bc0d1" />
 
 
 #### 6. Content Release Trends Over Time : 
@@ -64,7 +64,7 @@ The "Total shows by release year" line chart highlights content growth from 1920
 
 - Exponential Expansion: A dramatic and steep increase in content release is evident from approximately 2015-2016 onwards, culminating in a significant peak around 2020-2021. This reflects a period of aggressive content acquisition and original production by Amazon Prime Video.
 
-<img  width="246" height="173" alt="image" src="https://github.com/user-attachments/assets/538282dd-77c8-418f-9936-5560630f6378" />
+<img  width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/538282dd-77c8-418f-9936-5560630f6378" />
 
 
 - Consistent Movie Lead: Movies consistently outnumber TV shows in annual releases, particularly during periods of rapid growth.
