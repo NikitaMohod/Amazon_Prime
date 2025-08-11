@@ -22,7 +22,7 @@ The "Rating by total shows" chart highlights content prevalence across ratings:
 
 - Smaller Segments: R, PG-13, and Other categories have fewer titles (1.01K, 0.39K, 0.34K respectively).
 
-  <img  width="246" height="173" alt="image" src="https://github.com/user-attachments/assets/94ef8c0f-0534-4d83-b52f-2a4966626f9b" />
+  <img  width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/94ef8c0f-0534-4d83-b52f-2a4966626f9b" />
   
 
 
@@ -54,7 +54,7 @@ The "Movies and TV Shows" donut chart clearly defines the library composition:
 
 - Strategic Focus: This indicates Amazon Prime Video's content strategy heavily emphasizes a wide array of movies.
 
-  <img  width="246" height="173" alt="image" src="https://github.com/user-attachments/assets/3e55e0af-011a-4629-89af-5f7f4f2bc0d1" />
+  <img  width="" height="173" alt="image" src="https://github.com/user-attachments/assets/3e55e0af-011a-4629-89af-5f7f4f2bc0d1" />
 
 
 #### 6. Content Release Trends Over Time : 
